@@ -1,2 +1,4 @@
 # Tribute-Page
-HTML5 + CSS3
+Página tributo, Stephen Hawking.
+
+*HTML5 + CSS3

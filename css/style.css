@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: #212529;
+}
+
+#container{
+    max-width: 1000px;
+    width: 100%;
+    margin: auto;
+    box-shadow: 0px 0px 20px black;
+}
+
+/*Header*/
+header{
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 50px 0px 50px 0px;
+}
+
+header h1{
+    font-size: 42px;
+}
+
+header p{
+    font-size: 22px;
+}
+/*----*/
+
+/*Image*/
+#image{
+    background-image: url(../_img/stephen.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+/*----*/
+
+/*About*/
+#about{
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+#about p{
+    font-size: 18px;
+    text-align: justify;
+}
+/*----*/
+
+/*Quote*/
+#quote{
+    background-image: url(../_img/space.jpg);
+    background-color: blanchedalmond;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 150px 50px 150px 50px;
+}
+
+#quote p{
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    box-shadow: 0px 0px 10px black;
+}
+/*----*/
+
+/*Timeline*/
+#timeline{
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 100px 100px 0px 100px;
+}
+
+#timeline h2{
+    font-size: 28px;
+    margin-bottom: 40px;
+}
+
+#timeline ul{
+    text-align: left;
+}
+
+#timeline li{
+    margin-top: 20px;
+    font-size: 18px;
+}
+/*----*/
+
+/*Footer*/
+footer{
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 50px;
+}
+
+footer p{
+    font-size: 18px;
+}
+/*----*/
+
+#by{
+    text-align: center;
+    color: white;
+    padding: 20px;
+}

@@ -35,7 +35,7 @@ header p{
 
 /*Image*/
 #image{
-    background-image: url(../_img/stephen.jpg);
+    background-image: url(../img/stephen.jpg);
     height: 400px;
     background-position: center;
     background-size: cover;
@@ -56,7 +56,7 @@ header p{
 
 /*Quote*/
 #quote{
-    background-image: url(../_img/space.jpg);
+    background-image: url(../img/space.jpg);
     background-color: blanchedalmond;
     background-size: cover;
     background-position: center;
